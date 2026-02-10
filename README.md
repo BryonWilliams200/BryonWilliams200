@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**BryonWilliams200/BryonWilliams200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building practical, clean, and scalable projects.
+I care about understanding how things work — not just making them run.
 
-Here are some ideas to get you started:
+## 🧠 What I'm working on
+- Personal projects to sharpen my skills
+- Backend + systems fundamentals
+- Writing better, cleaner code over time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills
+- Languages: Python, JavaScript, Java
+- Tools: Git, Linux, GitHub
+- Concepts: Data structures, APIs, debugging
+
+## 📂 Projects
+- 🔹 **Project Name** – short description (link coming soon)
+- 🔹 **Project Name** – short description
+
+## 📫 Contact
+- GitHub: https://github.com/yourusername
+
 -->
