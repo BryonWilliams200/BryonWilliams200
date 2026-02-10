@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Bryon Williams
 
 I'm a developer focused on building practical, clean, and scalable projects.
 I care about understanding how things work — not just making them run.
@@ -10,14 +10,14 @@ I care about understanding how things work — not just making them run.
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript, Java
-- Tools: Git, Linux, GitHub
+- Tools: Git, Linux, GitHub, Chromebook Terminal, Virtual Machine Crafting, Operating System Programmer
 - Concepts: Data structures, APIs, debugging
 
 ## 📂 Projects
-- 🔹 **Project Name** – short description (link coming soon)
+- 🔹  Lunbuntu Installation through Virtual Machine and Chromebook Terminal – short description (link coming soon)
 - 🔹 **Project Name** – short description
 
 ## 📫 Contact
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/BryonWilliams200
 
 -->
