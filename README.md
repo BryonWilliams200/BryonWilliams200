@@ -9,7 +9,7 @@ I care about understanding how things work such as the inner workings of outdate
 - Writing better, cleaner code over time
 - Using my resources to my advantage
 
-## 🧠 What I'm interested in
+## 🧪 What I'm interested in
 I am interested in systems optimization, automation, and infrastructure-level problem solving.
 
 ## 🛠️ Technical Skills
